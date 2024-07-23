@@ -12,7 +12,7 @@ When I'm not knee-deep in automating the heck out of everything, you might catch
 or geeking out over the latest in art, fashion, and tech. I'm all about learning new tricks, whether it's in tech or figuring out how to not get schooled on the basketball court.
 Let's just say, I'm still working on that last part.
 
-*   🌍  I'm based in Tejas(TX)
+*   🌍  I'm a nomad, i think? d
 *   ✉️  You can contact me at [sherack.malo@gmail.com](mailto:sherack.malo@gmail.com)
 *   🧠  I'm constantly learning Skills to enhance my capabilities in the DevOps / SRE field
 *   🤝  I'm open to collaborating on Projects related to DevOps, site reliability, cloud infrastructure, automation,

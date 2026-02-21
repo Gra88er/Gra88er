@@ -13,8 +13,6 @@ or geeking out over the latest in art, fashion, and tech. I'm all about learning
 Let's just say, I'm still working on that last part.
 
 *   🌍  I'm a nomad, i think? d
-*   ✉️  You can contact me at [sherack.malo@gmail.com](mailto:sherack.malo@gmail.com)
-*   🧠  I'm constantly learning Skills to enhance my capabilities in the DevOps / SRE field
 *   🤝  I'm open to collaborating on Projects related to DevOps, site reliability, cloud infrastructure, automation,
 or any innovative tech projects that challenge me and contribute to my growth. I'm particularly interested in collaborations that push the boundaries of technology and creativity.
 *   ⚡  I believe in the power of community and sharing knowledge.
